@@ -60,19 +60,19 @@
  ![image](./public/image/Output_Screenshot/Screenshot%20(139).png)
 
 - Navigate to the cart page to manage your cart contents.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
  
 - Adjust product quantities using the "+" and "-" buttons.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
   
 - Click "Remove from Cart" to remove a product from the cart.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(141).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(141).png)
   
 - Click in the Apple Store or SHOP Cart Page to go to the Home Page. 
-- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
 
 - Click in the Continue Shopping on the Cart Page to go to the Home Page.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
 
 ## Technologies Used
 
