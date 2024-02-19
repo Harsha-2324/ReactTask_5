@@ -8,7 +8,6 @@
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage with Screenshots](#usage-with-screenshots)
-    - [Browse the home page to view available products.](#browse-the-home-page-to-view-available-products)
   - [Technologies Used](#technologies-used)
  
 ## Netlify Deployed URL
@@ -51,7 +50,7 @@
 
 ## Usage with Screenshots
 
-### Browse the home page to view available products.
+1. ### Browse the home page to view available products.
  ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
 
 - **Click "Add to Cart" to add a product to the cart.**
