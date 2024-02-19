@@ -67,4 +67,4 @@
 
 ## Screenshot
 
-![image](./public/image/Apple_15promax_Banner_1.jpg)
+![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
