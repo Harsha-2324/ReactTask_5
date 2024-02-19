@@ -45,14 +45,15 @@
    npm install react-router-dom
    npm install axios
    npm install --save phosphor-react
-   
+
    ```
 
 3. **Start the development server:**
 
-```bash
+   ```bash
    npm run dev
-```
+   
+   ```
 
 4. **Open your browser and navigate to** http://localhost:3000 **to view the app.**
 
