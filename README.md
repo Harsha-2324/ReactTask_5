@@ -1,19 +1,21 @@
-# Shopping Website with Cart Functionality
+# Context API Shopping Website with Cart Functions
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Context API Shopping Website with Cart Functions](#context-api-shopping-website-with-cart-functions)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Technologies Used](#technologies-used)
+  - [Screenshot](#screenshot)
+  - [Nelify Deployed URL](#nelify-deployed-url)
 
 ## Demo
 
 This project is deployed on Netlify The link is below,
-Here's a live demo of the project: https://react-shopping-cart-using-context-api.netlify.app/ 
+Here's a live demo of the project: https://contextapi-react-task-5.netlify.app/ 
 
 ## Features
 
@@ -27,7 +29,7 @@ Here's a live demo of the project: https://react-shopping-cart-using-context-api
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SwasticKumar/react-shopping-cart-using-context-api.git
+   git clone https://github.com/Harsha-2324/ReactTask_5.git
 
    ```
 
@@ -61,11 +63,12 @@ Here's a live demo of the project: https://react-shopping-cart-using-context-api
 - Context API for state management
 - HTML/CSS
 - Bootstrap for styling
+- 
+## Screenshot
 
-## Contributing
+![image](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*S2xxGyx6r_GnJVxGgclWMw.png)
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-## License
+## Nelify Deployed URL
 
-This project is licensed under the MIT License.
+🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://contextapi-react-task-5.netlify.app)
