@@ -96,7 +96,7 @@ const Cart = () => {
 
             <div className=" NoItems ">
               <img
-                src="https://i01.appmifile.com/webfile/globalimg/i18n_frontend/cart/cart-empty.svg"
+                src="./image/cart.png"
                 className="mt-5"
               />
               <p class="text-secondary fs-small my-5">
