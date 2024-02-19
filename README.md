@@ -50,7 +50,7 @@
 
 ## Usage with Screenshots
 
-- **Browse the home page to view available products.**
+- ### Browse the home page to view available products.
  ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
 
 - **Click "Add to Cart" to add a product to the cart.**
