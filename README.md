@@ -51,14 +51,16 @@
 ## Usage with Screenshots
 
 - Browse the home page to view available products.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+
 - Click "Add to Cart" to add a product to the cart.
- 
+ ![image](./public/image/Output_Screenshot/Screenshot%20(136).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(137).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(138).png)
+ ![image](./public/image/Output_Screenshot/Screenshot%20(139).png)
+
 - Navigate to the cart page to manage your cart contents.
-- ![image](./public/image/Output_Screenshot/Screenshot%20(136).png)
-- ![image](./public/image/Output_Screenshot/Screenshot%20(137).png)
-- ![image](./public/image/Output_Screenshot/Screenshot%20(138).png)
-- ![image](./public/image/Output_Screenshot/Screenshot%20(139).png)
+- ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
  
 - Adjust product quantities using the "+" and "-" buttons.
 - ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
