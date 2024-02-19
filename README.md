@@ -4,18 +4,16 @@
 
 - [Context API Shopping Website with Cart Functions](#context-api-shopping-website-with-cart-functions)
   - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
+  - [Nelify Deployed URL](#nelify-deployed-url)
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Technologies Used](#technologies-used)
   - [Screenshot](#screenshot)
-  - [Nelify Deployed URL](#nelify-deployed-url)
+ 
+## Nelify Deployed URL
 
-## Demo
-
-This project is deployed on Netlify The link is below,
-Here's a live demo of the project: https://contextapi-react-task-5.netlify.app/ 
+🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://contextapi-react-task-5.netlify.app)
 
 ## Features
 
@@ -36,14 +34,17 @@ Here's a live demo of the project: https://contextapi-react-task-5.netlify.app/
 2. Install dependencies:
 
 ```bash
-   cd your-project
-   npm install
+   cd ReactTask_5
+   npm install 
+   npm install react-router-dom
+   npm install axios
+   npm install --save phosphor-react
 ```
 
 3. Start the development server:
 
 ```bash
-   npm start
+   npm run dev
 ```
 
 4. Open your browser and navigate to http://localhost:3000 to view the app.
@@ -63,12 +64,7 @@ Here's a live demo of the project: https://contextapi-react-task-5.netlify.app/
 - Context API for state management
 - HTML/CSS
 - Bootstrap for styling
-- 
+
 ## Screenshot
 
-![image](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*S2xxGyx6r_GnJVxGgclWMw.png)
-
-
-## Nelify Deployed URL
-
-🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://contextapi-react-task-5.netlify.app)
+![image](./public/image/Apple_15promax_Banner_1.jpg)
