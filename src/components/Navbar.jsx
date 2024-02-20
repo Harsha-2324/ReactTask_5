@@ -20,7 +20,13 @@ const Navbar = () => {
 
         <ul className="navbar-nav ms-auto mb-lg-0 mx-4 fs-5 ">
           <li className="nav-item ">
-            <Link className="text-black" to="/">
+            <Link
+              className="text-black"
+              style={{
+                fontWeight: "bold",
+              }}
+              to="/"
+            >
               SHOP
             </Link>
           </li>
