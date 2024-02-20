@@ -98,13 +98,15 @@ const Cart = () => {
               <img
                 src="./image/cart.png"
                 className="mt-5"
+                width="300"
+                height="300"
               />
               <p class="text-secondary fs-small my-5">
-                Your shopping cart is empty
+                Shopping Cart is Empty!
               </p>
-              <button className="remove-shop mb-5">
-                <Link to="/">Shop Now &gt;</Link>
-              </button>
+              <Link to="/">
+                <button className="remove-shop mb-5">Shop Now &gt;</button>
+              </Link>
 
               {/**/}
             </div>
