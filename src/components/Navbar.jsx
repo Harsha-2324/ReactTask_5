@@ -13,7 +13,7 @@ const Navbar = () => {
             <img
               src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
               alt="icon"
-              style={{ width: "150px" }}
+              style={{ width: "40px",height: "40px" }}
             />
           </Link>
         </a>
