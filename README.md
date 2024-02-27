@@ -13,7 +13,7 @@
     - [3. Navigate to the cart page to manage your cart contents.](#3-navigate-to-the-cart-page-to-manage-your-cart-contents)
     - [4. Adjust product quantities using the "+" and "-" buttons.](#4-adjust-product-quantities-using-the--and---buttons)
     - [5. Click "Remove from Cart" to remove a product from the cart.](#5-click-remove-from-cart-to-remove-a-product-from-the-cart)
-    - [6. Click in the Apple Store or SHOP Cart Page to go to the Home Page.](#6-click-in-the-apple-store-or-shop-cart-page-to-go-to-the-home-page)
+    - [6. Click in the Apple Logo or SHOP Cart Page to go to the Home Page.](#6-click-in-the-apple-logo-or-shop-cart-page-to-go-to-the-home-page)
     - [7. Click in the Continue Shopping on the Cart Page to go to the Home Page.](#7-click-in-the-continue-shopping-on-the-cart-page-to-go-to-the-home-page)
   - [Technologies Used](#technologies-used)
  
@@ -77,7 +77,7 @@
 ### 5. Click "Remove from Cart" to remove a product from the cart.
  ![image](./public/image/Output_Screenshot/Screenshot%20(141).png)
   
-### 6. Click in the Apple Store or SHOP Cart Page to go to the Home Page.
+### 6. Click in the Apple Logo or SHOP Cart Page to go to the Home Page.
  ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
 
 ### 7. Click in the Continue Shopping on the Cart Page to go to the Home Page.
