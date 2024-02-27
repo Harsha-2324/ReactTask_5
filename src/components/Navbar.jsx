@@ -11,7 +11,7 @@ const Navbar = () => {
         <a className="navbar-brand" href="#!">
           <Link className="text-black" to="/">
             <img
-              src="/image/Apple_Store_Logo.png"
+              src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
               alt="icon"
               style={{ width: "150px" }}
             />

@@ -10,5 +10,6 @@ root.render(
     <CartProvider>
       <App />
     </CartProvider>
+    <SliderBottom/>
   </Router>
 );
